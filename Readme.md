@@ -1,4 +1,4 @@
-## DRBL + NFS : Guide détaillé prêt pour GitHub
+## DRBL + NFS : Guide détaillé
 
 ### Objectif du Projet
 Ce projet consiste à configurer un serveur DRBL (Diskless Remote Boot in Linux) couplé à un serveur NFS (Network File System) afin de faciliter la gestion et le déploiement d'images disque sur un réseau local.
