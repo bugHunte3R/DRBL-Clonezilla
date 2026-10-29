@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#16233D"/></linearGradient>
+<pattern id="p" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#ffffff10"/></pattern></defs>
+<rect width="1280" height="320" fill="url(#g)"/><rect width="1280" height="320" fill="url(#p)"/>
+<circle cx="1120" cy="70" r="190" fill="#0EA5E9" opacity=".16"/><circle cx="1210" cy="260" r="120" fill="#0EA5E9" opacity=".12"/>
+<rect x="72" y="70" width="56" height="6" rx="3" fill="#0EA5E9"/>
+<text x="72" y="140" font-size="52" font-weight="700" fill="#F8FAFC">DRBL + Clonezilla</text>
+<text x="72" y="186" font-size="22" fill="#94A3B8">PXE network boot and mass disk imaging over NFS</text>
+<rect x="72" y="228" width="54" height="34" rx="17" fill="#ffffff14" stroke="#ffffff33"/><text x="99.0" y="250" text-anchor="middle" font-size="15" fill="#E2E8F0">DRBL</text><rect x="136" y="228" width="102" height="34" rx="17" fill="#ffffff14" stroke="#ffffff33"/><text x="187.0" y="250" text-anchor="middle" font-size="15" fill="#E2E8F0">Clonezilla</text><rect x="248" y="228" width="46" height="34" rx="17" fill="#ffffff14" stroke="#ffffff33"/><text x="271.0" y="250" text-anchor="middle" font-size="15" fill="#E2E8F0">PXE</text><rect x="304" y="228" width="54" height="34" rx="17" fill="#ffffff14" stroke="#ffffff33"/><text x="331.0" y="250" text-anchor="middle" font-size="15" fill="#E2E8F0">TFTP</text><rect x="368" y="228" width="54" height="34" rx="17" fill="#ffffff14" stroke="#ffffff33"/><text x="395.0" y="250" text-anchor="middle" font-size="15" fill="#E2E8F0">DHCP</text><rect x="432" y="228" width="46" height="34" rx="17" fill="#ffffff14" stroke="#ffffff33"/><text x="455.0" y="250" text-anchor="middle" font-size="15" fill="#E2E8F0">NFS</text><rect x="488" y="228" width="126" height="34" rx="17" fill="#ffffff14" stroke="#ffffff33"/><text x="551.0" y="250" text-anchor="middle" font-size="15" fill="#E2E8F0">Ubuntu Server</text>
+<text x="1208" y="300" text-anchor="end" font-size="14" fill="#64748B">Yacine Zakat · homelab &amp; IT projects</text>
+</svg>
